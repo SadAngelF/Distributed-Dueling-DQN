@@ -1,7 +1,11 @@
 # Distributed-Dueling-DQN
-    Here is our algorithm for Pursuit Problem based on the *Distributed Reinforcement Learning for Cooperative Multi-robot Pursuit*.
 
-    The following items are the our demo:
+
+
+Here is our algorithm for Pursuit Problem
+It is a program for *Distributed Reinforcement Learning for Cooperative Multi-robot Pursuit*.
+
+The following items are the our demo:
 
 ![image](https://github.com/SadAngelF/Distributed-Dueling-DQN/blob/master/demo/4.gif)
 
