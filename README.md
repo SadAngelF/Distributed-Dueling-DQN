@@ -2,7 +2,8 @@
 
 
 
-Here is our algorithm for Pursuit Problem
+Here is our algorithm for Pursuit Problem.
+
 It is a program for *Distributed Reinforcement Learning for Cooperative Multi-robot Pursuit*.
 
 The following items are the our demo:
